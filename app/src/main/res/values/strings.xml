@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">APP02_105590030</string>
+    <string name="Name">姓名</string>
+    <string name="inputName">輸入姓名</string>
+    <string name="Sex">性別</string>
+    <string name="Men">男</string>
+    <string name="women">女</string>
+    <string name="yes">yes</string>
+    <string name="NO">NO</string>
+    <string name="question">問卷題目</string>
+    <string name="reYES">回答YES：</string>
+    <string name="reNO">回答NO：</string>
+    <string-array name="question_list">
+        <item>我覺得Android Programming很有趣</item>
+        <item>我覺得Android Programming上課很無聊</item>
+        <item>我覺得Android Programming作業很簡單</item>
+        <item>我覺得Android Programming上傳作業很麻煩</item>
+        <item>我覺得Android Programming很複雜</item>
+    </string-array>
+</resources>
